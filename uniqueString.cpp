@@ -2,7 +2,9 @@
 #include <string>
 
 using namespace std;
-
+/*
+Adding a useless comment
+*/
 
 function isUniqueChars(string a){
 set<char> chars;
